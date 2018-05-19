@@ -5,6 +5,8 @@ VoIP Domain ANATEL plugin
 
 This plugin implements the call costs, rules and other behaviours related to the Brazilian Telephony Regulation Agency, ANATEL (Agência Nacional de Telecomunicações). If you doesn't plan to use VoIP Domain at Brazil, you'll probably didn't need this plugin, but you can study it to understand how a big plugin interact with VoIP Domain infra structure.
 
+All the local, conurbated, interstate and international call fares are calculated based at [Resolution 678 of June 6, 2017](http://www.anatel.gov.br/legislacao/resolucoes/2017/934-resolucao-678).
+
 Features
 --------
 * Identification of call type at Brazil;
