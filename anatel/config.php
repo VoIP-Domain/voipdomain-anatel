@@ -25,7 +25,7 @@
 /**
  * VoIP Domain gateways Brazilian ANATEL regulatory agency standard module.
  *
- * @author     Ernani José Camargo Azevedo <azevedo@intellinews.com.br>
+ * @author     Ernani José Camargo Azevedo <azevedo@voipdomain.io>
  * @version    1.0
  * @package    VoIP Domain
  * @subpackage ANATEL

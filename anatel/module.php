@@ -28,7 +28,7 @@
  * module provides a full support to Brazil ANATEL standard, including LCR
  * calculations, gateway's interface modifications and other minor supports.
  *
- * @author     Ernani José Camargo Azevedo <azevedo@intellinews.com.br>
+ * @author     Ernani José Camargo Azevedo <azevedo@voipdomain.io>
  * @version    1.0
  * @package    VoIP Domain
  * @subpackage ANATEL
